@@ -1,0 +1,14 @@
+D:\DSA&Algorithms\Serialization\Serialization\bin\Debug\net6.0\Serialization.exe
+D:\DSA&Algorithms\Serialization\Serialization\bin\Debug\net6.0\Serialization.deps.json
+D:\DSA&Algorithms\Serialization\Serialization\bin\Debug\net6.0\Serialization.runtimeconfig.json
+D:\DSA&Algorithms\Serialization\Serialization\bin\Debug\net6.0\Serialization.dll
+D:\DSA&Algorithms\Serialization\Serialization\bin\Debug\net6.0\Serialization.pdb
+D:\DSA&Algorithms\Serialization\Serialization\obj\Debug\net6.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA&Algorithms\Serialization\Serialization\obj\Debug\net6.0\Serialization.AssemblyInfoInputs.cache
+D:\DSA&Algorithms\Serialization\Serialization\obj\Debug\net6.0\Serialization.AssemblyInfo.cs
+D:\DSA&Algorithms\Serialization\Serialization\obj\Debug\net6.0\Serialization.csproj.CoreCompileInputs.cache
+D:\DSA&Algorithms\Serialization\Serialization\obj\Debug\net6.0\Serialization.dll
+D:\DSA&Algorithms\Serialization\Serialization\obj\Debug\net6.0\refint\Serialization.dll
+D:\DSA&Algorithms\Serialization\Serialization\obj\Debug\net6.0\Serialization.pdb
+D:\DSA&Algorithms\Serialization\Serialization\obj\Debug\net6.0\Serialization.genruntimeconfig.cache
+D:\DSA&Algorithms\Serialization\Serialization\obj\Debug\net6.0\ref\Serialization.dll
